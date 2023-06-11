@@ -34,6 +34,7 @@ The application provides a command-line interface (CLI) for performing various M
 - python main.py read - Read and display documents from the database.
 - python main.py update - Update an existing document in the database.
 - python main.py delete - Delete a document from the database.
+
 For example, to create a new document:
 ```bash
 python main.py create
